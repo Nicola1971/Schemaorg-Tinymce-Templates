@@ -11,7 +11,11 @@ Schemaorg Tinymce Templates for MODx Evolution
 
 3) go to> Tools > Configuration > Interface & Features > TinyMCE Settings > 
 
+* Theme : set **custom**
+
 * > Template Button : add ```SchemaorgBook,SchemaorgEvent,SchemaorgMovie,SchemaorgPerson,SchemaorgProduct,SchemaorgRecipe,SchemaorgReview```
 
-* > Custom Buttons > Row 1:  add ```,template,visualblocks``` t the end of the row
+* > Custom Buttons > Row 1:  add ```,template,visualblocks``` at the end of the row
+
+
 
