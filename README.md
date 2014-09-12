@@ -29,14 +29,15 @@ Schemaorg Tinymce Templates for MODx Evolution
 
 ![schema type](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/schema-book-preview.jpg)
 
-* add the template
+* insert the template
+* customize the content 
 
 ![template](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/book-editor.jpg)
 
 * clock on the block elements button
 ![block button](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/block-elements.jpg)
 
-*  customize the content 
+
 *  look at your microdata code!
 
 ![microdata code](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/microdata-code.jpg)
