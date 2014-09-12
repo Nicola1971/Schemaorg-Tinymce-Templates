@@ -34,7 +34,7 @@ Schemaorg Tinymce Templates for MODx Evolution
 
 ![template](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/book-editor.jpg)
 
-* clock on the block elements button
+* click on the block elements button
 * customize the content 
 ![block button](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/block-elements.jpg)
 
