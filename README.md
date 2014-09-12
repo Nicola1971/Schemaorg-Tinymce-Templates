@@ -16,6 +16,30 @@ Schemaorg Tinymce Templates for MODx Evolution
 * > Template Button : add ```SchemaorgBook,SchemaorgEvent,SchemaorgMovie,SchemaorgPerson,SchemaorgProduct,SchemaorgRecipe,SchemaorgReview```
 
 * > Custom Buttons > Row 1:  add ```,template,visualblocks``` at the end of the row
+* 
+
+## How to
+
+* create a new document
+* click on the Tinymce template button
+
+![template button](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/select-schema.jpg)
+
+* select a schema type
+
+![schema type](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/schema-book-preview.jpg)
+
+* add the template
+
+![template](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/book-editor.jpg)
+
+* clock on the block elements button
+![block button](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/block-elements.jpg)
+
+*  customize the content 
+*  look at your microdata code!
+
+![microdata code](https://raw.githubusercontent.com/Nicola1971/training-materials/master/Images/schematinymce/microdata-code.jpg)
 
 
 
