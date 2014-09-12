@@ -1,4 +1,4 @@
-Schemaorg-Tinymce-Templates
+Schemaorg Tinymce Templates
 ===========================
 
 Schemaorg Tinymce Templates for MODx Evolution
